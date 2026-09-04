@@ -1,8 +1,10 @@
 # Target Niches: Entry-Level Marketing (Lauren Moeller)
 
-*Updated: healthcare, healthtech, and consumer-health/wellness excluded per request.*
+*Updated: healthcare, healthtech, and consumer-health/wellness excluded per request —
+confirmed this is about the industry specifically, not the RFP/agency-growth function
+itself, so the B2B Agency Growth & RevOps ranking below stands unchanged.*
 
-## Two blind spots first
+## Three things to sort before you apply broadly
 
 **1. The framing gap.** Your resume summary says you're "seeking growth, performance,
 lifecycle, or marketing analytics roles." Your bullets under BPD Healthcare don't back
@@ -24,6 +26,25 @@ trade-off, not a wash. One practical implication: when you talk about BPD in int
 outside healthcare, lead with the *function* ("growth and new-business operations at a
 national marketing agency") rather than the vertical, so you don't read as
 healthcare-locked to a screener skimming for industry match.
+
+**3. The layoff and the gap.** Your resume lists BPD as "July 2025 - May 2026," and it's
+now September — that's roughly four months unaccounted for, and you'll get asked about
+both the short tenure and the gap in most interviews. The useful fact here: **you were
+laid off after the agency was acquired**, which is a genuinely clean, common,
+non-stigmatizing story — acquisitions routinely restructure or eliminate roles, and
+interviewers have heard this exact pattern many times. Two things worth deciding before
+you're asked live, not during the interview:
+
+- **A one-line answer, rehearsed.** Something like: "BPD was acquired last spring, and
+  my role was part of the post-acquisition restructuring — it wasn't performance-related."
+  Say it plainly, once, and move back to what you did in the role. Over-explaining or
+  sounding defensive reads worse than the layoff itself.
+- **What the gap since May says about you.** If you've spent it job-searching, building
+  a portfolio piece, freelancing, or upskilling, name that directly — "I've been using
+  the gap to build out a marketing analytics project" is a stronger answer than silence
+  on the topic. If you haven't been doing any of that yet, the work sample recommended
+  throughout this doc (see Bottom Line) does double duty: it's both a credibility-builder
+  for the target niches *and* your answer to "what have you been doing since May."
 
 The five niches below are ranked by fit against what you can currently prove, not what
 you're currently calling yourself.
