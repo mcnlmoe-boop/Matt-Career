@@ -16,8 +16,11 @@ TE, Eaton, Itron, Landis+Gyr and Constellation.
    Gigavac's contactor center is in Carpinteria, CA, so this track likely means
    relocating.
 3. **The degree risk appeared in a real posting.** A 2024 Constellation electrical
-   engineer posting asked for a BS in Electrical Engineering *or* a PE. A PE would
-   close the gap left by your BS in Electrical Engineering Technology.
+   engineer posting asked for a BS in Electrical Engineering *or* a PE. Illinois
+   does not accept an Electrical Engineering Technology degree alone for a PE.
+   Possible routes are an NCEES credential evaluation based on graduate coursework,
+   or licensure in Wisconsin. See the follow-up advice on whether a PE is worth
+   pursuing at all.
 
 ## Postings worth acting on
 
