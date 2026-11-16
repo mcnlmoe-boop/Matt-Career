@@ -122,6 +122,10 @@ approximate. Verify before investing time in any single target.
 | Firm | What it is | Fit |
 |---|---|---|
 | **Egret Consulting Group** | Mundelein, IL; electrical-industry-only search since 1999; mid-level to C-suite in sales, marketing, ops, engineering; Forbes top-250 exec search (2017) | Strong — industry-specific, Illinois-based |
+| **Storm4** | US power infrastructure equipment specialist — breakers, switchgear, transformers; senior engineering, sales, leadership | Strong — closest product match; [Guessing] volume-style contingency agency, so enforce the submission rule |
+| **Blue Signal Search** | Electronic-components practice explicitly covering relay, switch, connector, sensor makers; also power electronics/electrification and a Power & Energy practice | Strong — only firm found naming relays/switches |
+| **JJM Search** (MRI Network) | Electronics-components exec search; partner of ECIA (Electronic Components Industry Association); places engineering + product management | Good for Tier A product/app-eng roles |
+| **Index Search** | Exec search only in manufacturing/industrial tech; electrical-equipment and power-equipment practice | Good for Director-level |
 | **TYGES** | Williamsburg, VA; manufacturing-industry search (perm, contract, outsourcing); ~11–50 staff | Moderate — manufacturing generalist, not electrical-specific. Don't confuse with "TYG," a different engineering staffing firm |
 
 **Rules before contacting any recruiter**
@@ -129,4 +133,5 @@ approximate. Verify before investing time in any single target.
 2. **State the constraints in the first call:** no relocation, $166K base floor, strategic/technical role. Ask them straight whether that market exists — use them as a reality check on pay.
 3. **Ask if Littelfuse is a client.** [Likely] retained firms have "off-limits" rules against recruiting from active clients — and in a small industry, ask how they protect confidentiality.
 4. **Control submissions.** Recruiter must get your OK before sending your resume to any company. Keep a do-not-submit list of companies you'll approach through referrals (TE first) — a recruiter submission first can block or price-up a referral path (their fee is [Likely] ~20–30% of first-year pay).
-5. **Recruiters supplement, they don't replace, your network.** They fill specific open reqs for the employer.
+5. **Cap it at 3–4 firms** (suggested: Egret, Storm4, Blue Signal, JJM). More firms = more double-submission risk, not more offers.
+6. **Recruiters supplement, they don't replace, your network.** They fill specific open reqs for the employer.
