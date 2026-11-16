@@ -114,3 +114,19 @@ a benchmark when outside offers come in.
 Remote policies and pay for most companies above are **[Guessing]** — they change often and
 vary by team. The only hard numbers are the six postings in the first table. Drive times are
 approximate. Verify before investing time in any single target.
+
+---
+
+## Recruiting firms (added Nov 16)
+
+| Firm | What it is | Fit |
+|---|---|---|
+| **Egret Consulting Group** | Mundelein, IL; electrical-industry-only search since 1999; mid-level to C-suite in sales, marketing, ops, engineering; Forbes top-250 exec search (2017) | Strong — industry-specific, Illinois-based |
+| **TYGES** | Williamsburg, VA; manufacturing-industry search (perm, contract, outsourcing); ~11–50 staff | Moderate — manufacturing generalist, not electrical-specific. Don't confuse with "TYG," a different engineering staffing firm |
+
+**Rules before contacting any recruiter**
+1. **Finish the resume first** — no yellow placeholders. First impressions with a recruiter stick.
+2. **State the constraints in the first call:** no relocation, $166K base floor, strategic/technical role. Ask them straight whether that market exists — use them as a reality check on pay.
+3. **Ask if Littelfuse is a client.** [Likely] retained firms have "off-limits" rules against recruiting from active clients — and in a small industry, ask how they protect confidentiality.
+4. **Control submissions.** Recruiter must get your OK before sending your resume to any company. Keep a do-not-submit list of companies you'll approach through referrals (TE first) — a recruiter submission first can block or price-up a referral path (their fee is [Likely] ~20–30% of first-year pay).
+5. **Recruiters supplement, they don't replace, your network.** They fill specific open reqs for the employer.
