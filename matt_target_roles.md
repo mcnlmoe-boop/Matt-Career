@@ -142,6 +142,71 @@ result substitutes for it at mid-size industrial companies, less so at Eaton/Sch
 4. What does your Littelfuse agreement say about competitors?
 5. Comp floor? (Determines whether Principal IC roles are even on the table.)
 
+---
+
+## Update — Nov 16: constraints confirmed
+
+**Answers given:** Moved back to engineering at leadership's request to close a large
+knowledge gap; promised team never materialized; new Director of Engineering lacks product
+knowledge; current work is mostly training engineers relocated to Matamoros. Burned out,
+unsure of BU direction. Wants deep technical knowledge used *strategically*. **No
+relocation.** Current comp: $166K base + 20% bonus target (~$199K target total).
+
+### What this changes
+
+1. **[Likely] Your current role has an expiration date.** Training Matamoros to absorb
+   your knowledge is a transfer program; once it's done, the reason the company needs a
+   Rock Falls Senior Principal shrinks. Your leverage is highest *now*, while the gap is
+   still large. Search on that timeline — and don't resign before an offer: if a
+   restructuring comes, severance is worth more than a few months' head start.
+2. **The step-back question is solved — and it's a strength.** "Leadership asked me to
+   return to engineering to close a critical knowledge gap" is proof of technical
+   authority, not a retreat. Use that line verbatim. Leave out the director, the missing
+   team, and Matamoros frustration — **[Likely]** any hint of bitterness costs more than
+   the facts help.
+3. **The Matamoros work is a resume bullet you're missing.** "Led technical knowledge
+   transfer to Matamoros engineering center, training N engineers on contactor, relay,
+   and transformer design" — that's supplier/site development, which is exactly what
+   Track 2 and Track 3 employers pay for.
+4. **The burnout is situational, not about the work.** No team, no direction, being a
+   trainer instead of a designer. A new Director role with a team to rebuild and a weak
+   pipeline can recreate the same conditions. Ask in interviews: who would I report to,
+   how technical are they, and what's the product roadmap for the next 3 years.
+
+### The constraint math (no-move + ~$199K target)
+
+- **Rock Falls commute radius is thin.** **[Likely]** Within ~75 min: Rockford,
+  Quad Cities, DeKalb, Freeport, Sterling/Dixon. Few Director-level electrical-product
+  roles there. **Realistically this is a remote/hybrid-with-travel search.**
+- **[Certain] "Director" doesn't guarantee more money.** Live postings today: Hillman
+  "Director, Application Engineering & Specification" at $85–123K; a power-transformer
+  Technical Engineering Manager at $130–157K. Many mid-size industrial Directors pay
+  *below* your current package. Screen comp early.
+- **[Likely] Remote favors Track 3 and Track 1 over Track 2.** App-engineering and
+  product-strategy roles travel to customers and can be home-based; OEM component
+  engineering usually wants you near the lab and the line.
+
+### Revised ranking
+
+1. **Director / Principal of Application Engineering or OEM Technical Strategy —
+   home-based with customer travel.** Best match for "deep knowledge, used strategically,"
+   and the most remote-friendly. Target electromechanical/power suppliers that don't sell
+   directly against Littelfuse first (to sidestep the non-compete).
+2. **Technical product strategy in industrial firms** (Director, Product Line Management /
+   Technology Roadmap). Your $100M P&L plus depth is rare. Remote-possible.
+3. **Standards, testing & certification bodies** *(new)* — **[Likely]** UL Solutions
+   (Northbrook, IL), Intertek, CSA hire senior switching/magnetics experts for standards
+   development and principal engineering roles; strategic, technical, lower burnout, some
+   remote. Your ANSI/IEEE/NEMA/UL background fits.
+4. **Independent consulting / expert witness** *(new, as side or bridge)* — **[Guessing]**
+   on demand, but 6 patents and 30 years in contactors/relays is the profile patent
+   litigation and OEM failure-analysis work looks for. Fully remote, no burnout from org
+   politics; income is lumpy, so it's a bridge or supplement, not a replacement at $199K.
+5. **OEM Component Engineering (Principal)** — still a fit technically, but drops because
+   most roles won't be remote near Rock Falls.
+6. **Drop:** Director of Supplier Quality (travel + firefighting = burnout), Solutions
+   Architect, Technical Fellow, Group PM.
+
 ## What I'm not certain about
 
 A quick job-board check returned almost nothing for "Director of Component Engineering"
