@@ -207,6 +207,22 @@ relocation.** Current comp: $166K base + 20% bonus target (~$199K target total).
 6. **Drop:** Director of Supplier Quality (travel + firefighting = burnout), Solutions
    Architect, Technical Fellow, Group PM.
 
+### Update — comp floor and restrictive covenants
+
+- **Floor: $166K base.** Bonus is negotiable; a 10% bonus instead of 20% costs ~$16.6K/yr
+  in target pay — decide in advance whether that's acceptable. **[Likely]** the floor
+  rules out many mid-size-company Director titles and some standards-body roles
+  (UL Solutions, Intertek, CSA) — verify comp on #3 before investing time there.
+- **"No employment contract" ≠ no restrictions.** Check the offer letter, any
+  invention-assignment / confidentiality agreement (you hold patents, so you almost
+  certainly signed one), RSU/equity award agreements, and any Hartland acquisition
+  paperwork. **[Certain]** Illinois' Freedom to Work Act (2022) makes non-competes
+  unenforceable below $75K and requires adequate consideration and a 14-day review
+  window — at $166K, a non-compete *can* apply if one exists somewhere. Trade-secret
+  obligations apply regardless.
+- **Resume v1 drafted:** `Matthew_Moeller_Resume_-_AppEng_TechStrategy.docx` (yellow
+  highlights = numbers to fill in).
+
 ## What I'm not certain about
 
 A quick job-board check returned almost nothing for "Director of Component Engineering"
