@@ -220,6 +220,11 @@ relocation.** Current comp: $166K base + 20% bonus target (~$199K target total).
   unenforceable below $75K and requires adequate consideration and a 14-day review
   window — at $166K, a non-compete *can* apply if one exists somewhere. Trade-secret
   obligations apply regardless.
+- **Nov 16 follow-up:** Matt reports no stock agreement and nothing signed. Remaining
+  check: the HR/onboarding portal for e-acknowledged documents (handbook, code of conduct,
+  bonus-plan terms). Assuming that's clean, **direct competitors (TE, Omron, Panasonic,
+  Eaton, Sensata, Schneider, Siemens, ABB, Carling, Hubbell) are back on the target list.**
+  Trade-secret and confidentiality duties still apply.
 - **Resume v1 drafted:** `Matthew_Moeller_Resume_-_AppEng_TechStrategy.docx` (yellow
   highlights = numbers to fill in).
 
