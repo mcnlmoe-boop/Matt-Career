@@ -234,3 +234,41 @@ A quick job-board check returned almost nothing for "Director of Component Engin
 (Chicago) or electrical-product Director PM (remote) — that's more likely a weak search
 tool than a dead market, so I didn't draw conclusions from it. The rankings above are
 reasoned from your resume and general hiring patterns, not from posting volumes.
+
+---
+
+## Update — Nov 17: Technical Sourcing Strategy as a track
+
+**Idea:** use deep component expertise to set sourcing strategy for contactors, relays,
+transformers, ATS, magnetics and electrical steel.
+
+**Risks to manage**
+- **It's a change of function.** Sourcing/procurement leaders are judged on negotiation,
+  total cost of ownership, contracts and supplier risk — not on design. The resume has
+  one strong commercial-sourcing bullet (make/CM/PFR strategy) and one 1998 supplier
+  bullet. Pure "Category Manager" roles also screen for procurement credentials.
+- **[Certain] Pure category roles can pay below the floor** — e.g., Crusoe Senior
+  Category Manager, Metals & Raw Materials: $120–145K (Nov 2026 posting).
+- **Burnout risk:** buyer-side sourcing carries quarterly cost-down targets and supplier
+  travel (Mexico/Asia). Strategy/technology-level roles carry less of this than
+  buyer/commodity-manager roles.
+- **Ethics:** knowing supplier cost structures is the value; using Littelfuse cost data is
+  off limits.
+
+**Where it's strongest — the hybrid, not pure procurement**
+- Titles: Sourcing Technology Director · Technical Category Lead / Commodity Engineering
+  Manager – Electromechanical · Principal Component Engineer (Strategic Sourcing) ·
+  Supplier Development Engineering Manager · Cost/Should-Cost Engineering Lead.
+- **Demand signal [Likely]:** AI data-center build-out has stretched lead times for
+  transformers, switchgear and electrical steel; operators are hiring technical sourcing
+  for electrical equipment. **[Certain]** CoreWeave "Strategic Sourcing – OFCI" (owner-
+  furnished electrical/mechanical equipment): $157–210K, Sunnyvale, CA (Nov 2026) —
+  clears the floor but location must be checked for remote.
+- Target buyers: data-center operators/builders (CoreWeave, Crusoe, hyperscalers, colos),
+  HVAC OEMs, generator/ATS OEMs, EV/storage, utilities.
+
+**Resume proof to add** (for a sourcing-strategy version)
+- Make/CM/PFR strategy: number of SKUs or $ moved between make/CM/PFR, margin result.
+- Electrical steel analysis framed as material sourcing strategy (grades, suppliers, $).
+- Contactor 20% cost-down framed as should-cost / design-to-cost.
+- Matamoros knowledge transfer framed as supplier/site development.
