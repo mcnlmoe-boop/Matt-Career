@@ -140,3 +140,21 @@ approximate. Verify before investing time in any single target.
 4. **Control submissions.** Recruiter must get your OK before sending your resume to any company. Keep a do-not-submit list of companies you'll approach through referrals (TE first) — a recruiter submission first can block or price-up a referral path (their fee is [Likely] ~20–30% of first-year pay).
 5. **Cap it at 4–5 firms, one per lane** (suggested: Egret and Storm4 for electrical/power, Blue Signal or JJM for components, THR Partners for HVAC/appliance). Different industries overlap less, but more firms still = more double-submission risk, not more offers.
 6. **Recruiters supplement, they don't replace, your network.** They fill specific open reqs for the employer.
+
+---
+
+## Consulting firms (added Nov 18)
+
+**Gap to close first [Likely]:** forensic and testimony work usually expects a **PE license**
+and often **CFEI** (Certified Fire & Explosion Investigator). CFEI is attainable in months;
+PE eligibility with a BS in EE *Technology* varies by state — check Illinois (IDFPR) rules.
+Consulting also means billable-hour targets — a different pressure than corporate politics.
+
+| Type | Firms | Why you fit | Notes |
+|---|---|---|---|
+| **Forensic engineering / failure analysis** | **Engineering Systems Inc. (ESI)** — Aurora, IL (~1h20); **Exponent**; **Rimkus**; **EFI Global**; **J.S. Held**; **Envista Forensics**; **HKA** (remote forensic electromechanical role seen) | Contactor/relay/ATS failures are a common cause in HVAC and equipment fire claims; you know how these parts fail from the inside | ESI posting asked 10–15 yrs *forensic* experience — you have device experience instead; pitch as product expert. Remote/field-based roles exist. |
+| **Expert networks** (side income now) | GLG, Guidepoint, AlphaSights, Third Bridge | Private equity is active in HVAC, electrical and data-center power; they pay for hour-long calls with device experts | Start while employed; no Littelfuse confidential info |
+| **Expert-witness / patent litigation** | SEAK, Expert Institute directories | 6 patents + 30 yrs in contactors/relays | Lumpy income; testimony credibility helped by PE |
+| **Cost engineering / teardown** | **Munro & Associates** (MI), **aPriori**, should-cost staffing firms | Should-cost for electromechanical modules — pairs with the sourcing track | [Certain] related postings: electrical cost estimator $200–210K (Auburn Hills, MI, onsite); electronics SME $160–200K (onsite) |
+| **Power / utility engineering firms** | Sargent & Lundy (Chicago), Burns & McDonnell, Black & Veatch, POWER Engineers | Nuclear (Quad Cities) + protective-relay background | Weaker fit — they design plants/substations, not devices |
+| **Independent (own LLC)** | Small OEMs, PE portfolio companies, distributors | Design reviews, supplier qualification, training (your curriculum) | Bridge/supplement; not a $166K replacement on day one |
